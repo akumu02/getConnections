@@ -1,0 +1,15 @@
+{
+    "ms-getconnection": {
+        "version": "xxxx",
+        "logs": {
+            "maxSize": 3000000,
+            "maxFiles": 10,
+            "level": "info"
+        }
+    },
+        "CNs": [
+            { "url": "mongodb://xxxx", "base": "DB1" },
+            { "url": "mongodb://xxxx", "base": "DB1" },
+            { "url": "mongodb://xxxx", "base": "DB1" }
+          ]
+}

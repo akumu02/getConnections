@@ -1,0 +1,17 @@
+{
+  "name": "ms-getconnection",
+  "version": "xxxx",
+  "description": "Nodejs Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katherine",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.3.1",
+    "uuid": "^8.3.2",
+    "winston": "^3.3.3"
+  }
+}
